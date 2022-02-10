@@ -1,19 +1,12 @@
 <a><img src="https://img.shields.io/badge/HI-000000?style=for-the-badge&logo=&logoColor=FFFFFF"/></a>
 <a><img src="https://img.shields.io/badge/THERE-FFFFFF?style=for-the-badge&logoColor=000000"/></a>
 <a><img src="https://img.shields.io/badge/I AM-FFFFFF?style=for-the-badge&logoColor=000000"/></a>
-<a><img src="https://img.shields.io/badge/ZEBI-FFFFFF?style=for-the-badge&logoColor=FFFFFF"/></a>
+<a><img src="https://img.shields.io/badge/ZEBI-94399E?style=for-the-badge&logoColor=FFFFFF"/></a>
 ##
 ![image](https://user-images.githubusercontent.com/99427961/153495341-7959578f-daff-4e20-9ad0-8310f5ca1c91.png)
 ##
 <a href="https://github.com/zoczebe" target="_blank"><img src="https://img.shields.io/badge/Zoczebe-181717?style=for-the-badge&logo=github&logoColor=FFFFFF"/></a>
 <a href="zoczebe@gmail.com" target="_blank"><img src="https://img.shields.io/badge/zoczebe@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=FFFFFF"/></a>
-###### 👯 I’m currently working on...
-<a><img src="https://img.shields.io/badge/design-000000?style=for-the-badge&logoColor=FFFFFF"/></a>
-<a><img src="https://img.shields.io/badge/character / fashion / ux / ui-FFFFFF?style=for-the-badge&logoColor=000000"/></a> <p>
-<a><img src="https://img.shields.io/badge/development-000000?style=for-the-badge&logoColor=FFFFFF"/></a>
-<a><img src="https://img.shields.io/badge/web / app / game / discord bot -FFFFFF?style=for-the-badge&logoColor=000000"/></a> <p>
-<a><img src="https://img.shields.io/badge/other-000000?style=for-the-badge&logoColor=FFFFFF"/></a>
-<a><img src="https://img.shields.io/badge/world building / launching an NFT series / selling merchandise online-FFFFFF?style=for-the-badge&logoColor=000000"/></a>
 ##
 👍
 <a><img src="https://img.shields.io/badge/Photoshop-31A8FF?style=for-the-badge&logo=adobephotoshop&logoColor=FFFFFF"/></a>
@@ -38,5 +31,13 @@
 <a><img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=FFFFFF"/></a>
 <a><img src="https://img.shields.io/badge/C Sharp-239120?style=for-the-badge&logo=csharp&logoColor=FFFFFF"/></a>
 <a><img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c++&logoColor=FFFFFF"/></a>
+##
 
-
+<a><img src="https://img.shields.io/badge/I’m currently working on...-FFFFFF?style=for-the-badge&logoColor=000000"/></a> <p>
+<a><img src="https://img.shields.io/badge/design-000000?style=for-the-badge&logoColor=FFFFFF"/></a>
+<a><img src="https://img.shields.io/badge/character / fashion / brand / ux / ui-FFFFFF?style=for-the-badge&logoColor=000000"/></a> <p>
+<a><img src="https://img.shields.io/badge/development-000000?style=for-the-badge&logoColor=FFFFFF"/></a>
+<a><img src="https://img.shields.io/badge/website / app / game / discord bot -FFFFFF?style=for-the-badge&logoColor=000000"/></a> <p>
+<a><img src="https://img.shields.io/badge/other-000000?style=for-the-badge&logoColor=FFFFFF"/></a>
+<a><img src="https://img.shields.io/badge/world building / launching an NFT series / selling merchandise online / becoming a content creator-FFFFFF?style=for-the-badge&logoColor=000000"/></a>
+##
