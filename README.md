@@ -39,5 +39,6 @@
 <a><img src="https://img.shields.io/badge/development-000000?style=for-the-badge&logoColor=FFFFFF"/></a>
 <a><img src="https://img.shields.io/badge/website / app / game / discord bot -FFFFFF?style=for-the-badge&logoColor=000000"/></a> <p>
 <a><img src="https://img.shields.io/badge/other-000000?style=for-the-badge&logoColor=FFFFFF"/></a>
-<a><img src="https://img.shields.io/badge/world building / launching an NFT series / selling merchandise online / becoming a content creator-FFFFFF?style=for-the-badge&logoColor=000000"/></a>
+<a><img src="https://img.shields.io/badge/world building / launching an NFT series / selling merchandise online-FFFFFF?style=for-the-badge&logoColor=000000"/></a> <p>
+  <a><img src="https://img.shields.io/badge/becoming a content creator on YT/TWITCH / illustration / animation-FFFFFF?style=for-the-badge&logoColor=000000"/></a>
 ##
