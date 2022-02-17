@@ -24,6 +24,7 @@
 <a><img src="https://img.shields.io/badge/InDesign-FF3366?style=for-the-badge&logo=adobeindesign&logoColor=FFFFFF"/></a>
 <a><img src="https://img.shields.io/badge/XD-FF61F6?style=for-the-badge&logo=adobexd&logoColor=FFFFFF"/></a>
 <a><img src="https://img.shields.io/badge/After Effects-9999FF?style=for-the-badge&logo=adobeaftereffects&logoColor=FFFFFF"/></a>
+<a><img src="https://img.shields.io/badge/Animate-9999FF?style=for-the-badge&logoColor=FFFFFF"/></a>
 
 🤔
 <a><img src="https://img.shields.io/badge/Unreal Engine-0E1128?style=for-the-badge&logo=unrealengine&logoColor=FFFFFF"/></a>
